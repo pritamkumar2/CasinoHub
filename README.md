@@ -131,3 +131,15 @@ Run the Application
 sh
 
 npm run dev
+
+
+### project till now 
+![Screenshot 2024-08-11 151650](https://github.com/user-attachments/assets/3d9343cf-5cc3-4d30-a0d2-87a17e675e77)
+
+
+
+![Screenshot 2024-08-10 101514](https://github.com/user-attachments/assets/5dc68b8c-7144-4803-a4d5-70e45d09828b)
+
+
+
+![Screenshot 2024-08-11 151607](https://github.com/user-attachments/assets/1100c508-75c4-45e0-a0d3-8d2f51febef9)
