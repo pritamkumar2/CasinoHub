@@ -1,6 +1,9 @@
 # CasinoHub
 
-![CasinoHub Banner](https://imgur.com/a/3dqvNef)
+![CasinoHub Banner]
+
+![Default_Create_a_vibrant_and_eyecatching_cover_image_for_Casin_3](https://github.com/user-attachments/assets/4b62b0e4-4405-4496-a44c-5d959d5b9f7d)
+
 
 **BetNWin** is an open-source casino platform designed to bring the excitement of online gaming to life. Built with the MERN stack, this project aims to create a secure, interactive, and responsive platform for sports betting, casino games, and wallet management. Whether you're a beginner or an expert, your contributions are welcome!
 
