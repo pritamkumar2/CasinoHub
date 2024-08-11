@@ -106,7 +106,7 @@ To get a local copy up and running, follow these simple steps.
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/your-username/CasinoHub.git
+   git clone https://github.com/pritamkumar2/CasinoHub.git
    cd CasinoHub
 
     Install Dependencies
