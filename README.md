@@ -1,4 +1,4 @@
-# CasinoHub
+# CasinoHub The Best GitHub Repo to Contribute
 
 ![CasinoHub Banner]
 
