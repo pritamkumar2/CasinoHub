@@ -146,10 +146,8 @@ npm run dev
 
 ![Screenshot 2024-08-11 161154](https://github.com/user-attachments/assets/e9acea9c-785c-4eeb-8a99-a685d182a00d)
 
-
-
-![CasinoHub]
-
+# CasinoHub: The Best GitHub Repo to Contribute
+*Time to Show the True Color of Your Code Skills!*
 
 ![Default_Create_a_vibrant_and_eyecatching_cover_image_for_Casin_3](https://github.com/user-attachments/assets/846f1d97-50f6-4401-bdb1-19ac5f2ae831)
 
